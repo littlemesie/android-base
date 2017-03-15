@@ -1,0 +1,35 @@
+/*
+* 页头部分样式
+*/
+#logo{
+	height: 60px;
+	padding: 30px 0px 10px;
+}
+#search{
+	padding: 50px 0px 10px;
+}
+/*
+ * 主体左侧栏导航部分 
+ */
+#nav{
+	border: 1px solid #EEEEEE;
+}
+
+/*
+ * 主体右表格部分
+ */
+.input{
+	width: 120px;
+}
+
+.table{
+	border: 1px solid #EEEEEE;
+}
+/*
+ * 页脚部分
+ */
+.footer{
+	text-align: center;
+}
+
+
